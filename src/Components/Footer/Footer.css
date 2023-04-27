@@ -1,0 +1,26 @@
+.footer {
+    background-color: #141414;
+    color: #757575;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 5rem;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-right: 1.5rem;
+    cursor: pointer;
+  }
+  
